@@ -3,7 +3,7 @@ Sempre retornando o erro CrashLoopBackOff
 <img src="/images/CrashLoopBackOff.png")
 
 E também não sei o porque não consegui visualizar os logs
-![alt text](orquestracao/images/noLogs.png)
+![alt text](images/noLogs.png)
 
 Porém realizei o push das imagens para o dockerhub 
 ![alt text](orquestracao/images/login_docker_hub.png)
