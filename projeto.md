@@ -1,14 +1,14 @@
 Professor não consegui passar da criação do container da aplicação, realizei várias tentativas de build de imagem todas com falha... 
 Sempre retornando o erro CrashLoopBackOff 
-<img src="/images/CrashLoopBackOff.png")
+![alt text](images/CrashLoopBackOff.png)
 
 E também não sei o porque não consegui visualizar os logs
 ![alt text](images/noLogs.png)
 
 Porém realizei o push das imagens para o dockerhub 
-![alt text](orquestracao/images/login_docker_hub.png)
+![alt text](login_docker_hub.png)
 
-![alt text](orquestracao/images/repositorios_docker.png)
+![alt text](repositorios_docker.png)
 
 Ao tentar adicionar volumes persitente ou utilizar o statefullset como nos exemplos sempre recebi esse erro... 
 
