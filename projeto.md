@@ -1,6 +1,6 @@
 Professor não consegui passar da criação do container da aplicação, realizei várias tentativas de build de imagem todas com falha... 
 Sempre retornando o erro CrashLoopBackOff 
-![alt text](orquestracao/images/CrashLoopBackOff.png)
+<img src="/images/CrashLoopBackOff.png")
 
 E também não sei o porque não consegui visualizar os logs
 ![alt text](orquestracao/images/noLogs.png)
