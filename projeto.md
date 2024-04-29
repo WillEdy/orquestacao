@@ -6,9 +6,9 @@ E também não sei o porque não consegui visualizar os logs
 ![alt text](images/noLogs.png)
 
 Porém realizei o push das imagens para o dockerhub 
-![alt text](login_docker_hub.png)
+![alt text](images/login_docker_hub.png)
 
-![alt text](repositorios_docker.png)
+![alt text](images/repositorios_docker.png)
 
 Ao tentar adicionar volumes persitente ou utilizar o statefullset como nos exemplos sempre recebi esse erro... 
 
